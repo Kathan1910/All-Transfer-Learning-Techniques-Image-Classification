@@ -91,4 +91,5 @@ Transfer learning is a powerful approach in machine learning and deep learning t
 - Demands computational resources similar to other deep architectures.
 - May not provide significant advantages over other models for some tasks.
 
-" These transfer learning techniques offer a valuable arsenal of pre-trained deep learning models that significantly expedite the development of robust and accurate solutions for a wide spectrum of machine learning and computer vision tasks." 
+- These transfer learning techniques offer a valuable arsenal of pre-trained deep learning models that significantly expedite the development of robust and accurate solutions for a wide spectrum of machine learning and computer vision tasks.
+
